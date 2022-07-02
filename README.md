@@ -9,32 +9,17 @@
 
 **About Me -**
 
-- 🔭 A Final Year 
-- 🌱 I’m currently learning more about Tensorflow in depth
+- 🔭 A Final Year Student
+- 🌱 I’m currently learning more about Machine Learning in depth
      
      <p align="center">
   <img width="500" height="300" src="https://user-images.githubusercontent.com/55251741/126354943-9191dd62-9fd9-45c9-b5a4-a90ed3d9f602.gif">
 </p>
 
-     
- 
-- 🎤 I’m collaborating on Podcast [Spotify](https://open.spotify.com/show/0Xjsp5N1RiHlXl92E1SDxr?si=uSoi7RNjQYKdWF587h2Rnw&utm_source=copy-link&dl_branch=1) -
-
-![1](https://user-images.githubusercontent.com/55251741/126361130-b61cfcac-6762-4245-b88d-9ddcd1f0035e.PNG)
-
-
-
-
-- 👉 You can follow our page [THE DYNAMIC GEEK](https://www.instagram.com/dynamic__geek/?hl=en) for Python Projects and more.
 - 💬 Ask me about Tech related stuff. 
 - 📫 How to reach me: [Instagram - @MR.HUNTER](https://www.instagram.com/hunterr__28/) , [Linkedin - Ashish Saha](https://www.linkedin.com/in/ashish-saha-5859261a7/)
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: i can watch Naruto whole day🐱‍👤🍜🦊 
-
-
-### Spotify Playing 🎧
-
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/album/3TJz2UBNYJtlEly0sPeNrQ?highlight=spotify:track:1mXVgsBdtIVeCLJnSnmtdV)
 
 
 🤝🏻 Reach me out!
@@ -48,7 +33,6 @@
 
 
 ![Ashish's Github Stats](https://github-readme-stats.vercel.app/api?username=techyashu&show_icons=true&theme=radical&hide=stars,issues)
-
 
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=techyashu&layout=compact&theme=radical&count_private=true" />
