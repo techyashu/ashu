@@ -17,7 +17,7 @@
 </p>
 
 - 💬 Ask me about Tech related stuff. 
-- 📫 How to reach me: [Instagram - @MR.HUNTER](https://www.instagram.com/hunterr__28/) , [Linkedin - Ashish Saha](https://www.linkedin.com/in/ashish-saha-5859261a7/)
+- 📫 How to reach me: [Linkedin - Ashish Saha](https://www.linkedin.com/in/ashish-saha-5859261a7/)
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: i can watch Naruto whole day🐱‍👤🍜🦊 
 
